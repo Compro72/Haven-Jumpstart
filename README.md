@@ -7,3 +7,6 @@ You can find the demo link [here](https://compro72.itch.io/jumpstart-haven-guelp
 
 ## Tech Stack
 The [Godot](https://godotengine.org) Game Engine was used to create this game!
+
+## Screenshot
+![Alt Text](jumpstart.png)
